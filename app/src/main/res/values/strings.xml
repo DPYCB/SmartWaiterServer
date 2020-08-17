@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmartWaiterServer</string>
+    <string name="Login">Войти</string>
+    <string name="loginNameHint">Логин</string>
+    <string name="loginName">Staff001</string>
+    <string name="passwordHint">Пароль</string>
+    <string name="password">001staff</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="user">Пользователь</string>
+    <string name="nav_menu">Меню</string>
+    <string name="nav_orders">Заказы</string>
+    <string name="nav_cart">Корзина</string>
+    <string name="nav_signout">Выйти</string>
+    <string name="menuItem">Категория меню</string>
+    <string name="select">ВЫБРАТЬ ФОТО</string>
+    <string name="upload">ЗАГРУЗИТЬ ФОТО</string>
+    <string name="foodName">Название блюда</string>
+    <string name="foodDescription">Описание блюда</string>
+    <string name="foodPrice">Цена блюда</string>
+    <string name="foodTime">Время приготовления</string>
+    <string name="orderName">НОМЕР ЗАКАЗА</string>
+    <string name="orderTable">НОМЕР СТОЛИКА</string>
+    <string name="orderStatus">СТАТУС ЗАКАЗА</string>
+    <string name="order">Заказ:</string>
+    <string name="foodQuantity">20 шт.</string>
+    <string name="edit">Изменить</string>
+    <string name="remove">Удалить</string>
+    <string name="details">Детали</string>
+</resources>
